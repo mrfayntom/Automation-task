@@ -129,31 +129,5 @@ This script optimizes download folder maintenance, making it ideal for startup p
    ```bash
    npm install chokidar node-notifier
    ```
-# Notice Regarding Recent Exam Performance
-
-This document outlines a formal explanation regarding the recent examination results, highlighting the discrepancies between expected and actual marks across various subjects. It also addresses the challenges faced in the evaluation process, including third-party checking by CBSE and financial limitations preventing rechecking.
-
-## Key Points
-
-- Overall marks fell below the 80% threshold.
-- Evaluation was conducted by a third-party agency for the first time.
-- Subject-wise score details with comparison to expectations:
-  - Informatics Practices (IP): Expected 95+, Scored 91
-  - Physics: Expected 90+, Scored 80
-  - Chemistry: Expected 75+, Scored 67
-  - English: Expected 90+, Scored 73
-  - Mathematics: Expected 85+, Scored 51
-- Rechecking is not feasible due to high associated costs.
-- Improvement Exam will be attempted in Mathematics with a goal of scoring 90+.
-- Only one subject improvement is allowed for 12th-grade students.
-- Step marking is not applicable.
-- Expresses concern over lack of attention to students’ issues.
-
-## Purpose
-
-The notice serves to clarify the reasons behind the lower-than-expected performance and to communicate the current plan moving forward, focusing on improvement exams and academic dedication.
-
-## Usage
-
-This notice can be shared with family, educators, or relevant school authorities to provide transparency and context regarding academic results.
+ties to provide transparency and context regarding academic results.
 
